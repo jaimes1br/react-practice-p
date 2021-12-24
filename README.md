@@ -16,7 +16,7 @@ This project was created with a practical objective on the technologies of JavaS
 
 ## Before starting
 
-Make sure you have `npm` or `yarn` installed, then:
+Make sure you have `npm` or `yarn` installed, then in the project directory:
 
 ```sh
 yarn install 
