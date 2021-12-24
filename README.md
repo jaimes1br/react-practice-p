@@ -46,8 +46,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ---
 
-<div align='right'> - Amor y respeto </div>
+- Amor y respeto <br/>
+[@jaimes1br](https://github.com/jaimes1br)
 
-<div align='right'>
-  [@jaimes1br](https://github.com/jaimes1br)
-</div>
